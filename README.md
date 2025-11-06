@@ -30,3 +30,14 @@ imaris 10.2
 
 COSMOthermX COSMOlogic 18.0.1 windows-x64 
 
+flow3d 11.2
+
+flow3d hydro 2023
+
+flow3d cast 2023
+
+flow3d am 12.0
+
+Robodk 5.9
+
+Robodk 4.0
